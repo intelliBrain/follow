@@ -36,6 +36,7 @@
     "it-all": "^1.0.5",
     "knex": "^0.21.19",
     "knex-migrate": "^1.7.4",
+    "node-fetch": "^2.6.1",
     "objection": "^2.2.15",
     "quasar": "^2.0.2",
     "set-system-clock-wfix": "^1.0.5",
